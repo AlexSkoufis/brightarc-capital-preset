@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "Brightarc Capital | Growth Capital and Strategy Consulting for Startups and Small Businesses",
+    "description": "Brightarc Capital is a private investment company providing growth capital, shareholder liquidity, and leadership and strategy consulting to startups and small businesses.",
+    "siteName": "Brightarc Capital",
+    "locale": "en_US"
+  },
+  "brand": {
+    "name": "Brightarc Capital",
+    "legalName": "Brightarc Capital LLC",
+    "logo": {
+      "alt": "Brightarc Capital"
+    }
+  },
+  "skipLink": "Skip to content",
+  "nav": {
+    "label": "Main navigation",
+    "items": [
+      {
+        "label": "Approach"
+      },
+      {
+        "label": "Capital"
+      },
+      {
+        "label": "Advisory"
+      },
+      {
+        "label": "Who We Back"
+      },
+      {
+        "label": "About"
+      }
+    ],
+    "cta": {
+      "label": "Start a conversation",
+      "href": "#contact"
+    },
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "contact": {
+    "person": "Nora Lindqvist",
+    "phone": "000-000-0000",
+    "phoneHref": "tel:+10000000000",
+    "email": "nora@brightarc.example"
+  },
+  "footer": {
+    "tagline": "A private investment company providing growth or shareholder liquidity capital, and business leadership and strategy consulting, to startups and small businesses.",
+    "navTitle": "Explore",
+    "contactTitle": "Contact",
+    "cta": {
+      "label": "Start a conversation",
+      "href": "#contact"
+    },
+    "backToTop": "Back to top",
+    "rights": "All rights reserved.",
+    "credit": {
+      "prefix": "Designed by",
+      "label": "CoreConcepts Design",
+      "href": "https://coreconcepts.design/"
+    }
+  }
+}

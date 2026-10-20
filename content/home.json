@@ -1,0 +1,260 @@
+{
+  "hero": {
+    "eyebrow": "Private investment company",
+    "titleLines": [
+      "Capital and counsel",
+      "for companies"
+    ],
+    "titleAccent": "on the way up.",
+    "lead": "Brightarc backs startups and small businesses with growth capital, shareholder liquidity, and hands-on leadership and strategy consulting. One partner for the money and the thinking behind it.",
+    "primaryCta": {
+      "label": "Start a conversation",
+      "href": "#contact"
+    },
+    "secondaryCta": {
+      "label": "See how we help",
+      "href": "#help"
+    },
+    "visual": {
+      "label": "Two ways up",
+      "tagCapital": "Capital",
+      "tagStrategy": "Strategy",
+      "caption": "Growth capital, shareholder liquidity and leadership consulting, separately or together."
+    },
+    "scrollHint": "Scroll"
+  },
+  "marquee": {
+    "items": [
+      "Growth capital",
+      "Shareholder liquidity",
+      "Leadership consulting",
+      "Strategy consulting",
+      "Startups",
+      "Small businesses"
+    ]
+  },
+  "services": {
+    "id": "help",
+    "eyebrow": "What we do",
+    "title": "In plain terms, we help in three ways.",
+    "intro": "No jargon, no layers. Here is what Brightarc offers and when each one makes sense.",
+    "fitLabel": "Right for you if",
+    "items": [
+      {
+        "key": "growth",
+        "number": "01",
+        "tag": "Capital",
+        "tone": "green",
+        "title": "Growth capital",
+        "text": "Funding for the next stage of the business, whether that means hiring, a new location, product development or working capital.",
+        "fit": "You have momentum and a clear plan for what the capital will do.",
+        "cta": "Ask about growth capital"
+      },
+      {
+        "key": "liquidity",
+        "number": "02",
+        "tag": "Capital",
+        "tone": "green",
+        "title": "Shareholder liquidity",
+        "text": "A way for founders, partners or early shareholders to turn part or all of their ownership into cash, while the business keeps moving.",
+        "fit": "A shareholder wants out, or you want to take some risk off the table.",
+        "cta": "Ask about liquidity"
+      },
+      {
+        "key": "advisory",
+        "number": "03",
+        "tag": "Consulting",
+        "tone": "blue",
+        "title": "Leadership and strategy consulting",
+        "text": "An experienced outside view on the decisions that shape the company: priorities, structure, growth plans and the leadership needed to deliver them.",
+        "fit": "The business has outgrown the way it is run.",
+        "cta": "Ask about consulting"
+      }
+    ]
+  },
+  "approach": {
+    "eyebrow": "Why it works",
+    "title": "Two arcs, one horizon.",
+    "intro": "Look at our mark: two arcs rising together. Capital on its own rarely fixes a strategy problem, and a good plan stalls without the means to carry it out. We offer both, side by side.",
+    "operators": {
+      "plus": "plus",
+      "equals": "equals"
+    },
+    "panels": [
+      {
+        "tone": "blue",
+        "label": "Leadership and strategy",
+        "title": "The thinking",
+        "text": "Clear priorities, sound structure and the leadership habits that let a company grow without losing its footing."
+      },
+      {
+        "tone": "green",
+        "label": "Capital",
+        "title": "The fuel",
+        "text": "Growth capital or shareholder liquidity, structured around the business and the people who own it."
+      },
+      {
+        "tone": "both",
+        "label": "Together",
+        "title": "Take one, or take both.",
+        "text": "Work with us on capital, on consulting, or on both at once. You choose what the business needs right now."
+      }
+    ],
+    "cta": {
+      "label": "Start a conversation",
+      "href": "#contact"
+    }
+  },
+  "paths": {
+    "eyebrow": "Find your starting point",
+    "title": "Which sounds most like you?",
+    "tablistLabel": "Choose the situation that fits your company",
+    "options": [
+      {
+        "id": "growth",
+        "need": "Growth capital",
+        "label": "We are ready to grow",
+        "headline": "You need capital to take the next step.",
+        "text": "Tell us what the money is for and where you want the business to be. We look at the plan, the numbers and the team, then talk openly about whether and how we can invest.",
+        "points": [
+          "A conversation about your goals",
+          "A close look at the plan and the numbers",
+          "A clear answer on fit"
+        ],
+        "cta": "Talk about growth capital"
+      },
+      {
+        "id": "liquidity",
+        "need": "Shareholder liquidity",
+        "label": "A shareholder wants to sell",
+        "headline": "Someone wants to cash out, and the business needs to keep going.",
+        "text": "Founders retire, partners move on, early backers want a return. We can provide liquidity for some or all of those shares, so ownership can change while the company stays focused.",
+        "points": [
+          "Founder or partner transitions",
+          "Early shareholders seeking a return",
+          "Partial or full share purchases"
+        ],
+        "cta": "Talk about liquidity"
+      },
+      {
+        "id": "advisory",
+        "need": "Leadership and strategy consulting",
+        "label": "We need a sharper plan",
+        "headline": "The business has outgrown how it is run.",
+        "text": "Growth brings new problems: unclear priorities, stretched leaders, decisions that keep getting pushed. We work with owners and leadership teams on the strategy and the structure to carry it out.",
+        "points": [
+          "Strategy and growth planning",
+          "Leadership and team structure",
+          "An outside view on key decisions"
+        ],
+        "cta": "Talk about consulting"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "Straightforward from the first call.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Introduction",
+        "text": "A short call to understand your business, where it is now and what you are looking for."
+      },
+      {
+        "number": "02",
+        "title": "Understanding",
+        "text": "We dig into the plan, the numbers and the people, and ask the questions an outside partner should."
+      },
+      {
+        "number": "03",
+        "title": "Proposal",
+        "text": "If there is a fit, we put forward a clear structure for capital, consulting or both."
+      },
+      {
+        "number": "04",
+        "title": "Partnership",
+        "text": "We get to work alongside you, focused on the goals we agreed on together."
+      }
+    ]
+  },
+  "audience": {
+    "eyebrow": "Who we work with",
+    "title": "For companies at the stage where every decision counts.",
+    "items": [
+      {
+        "tone": "blue",
+        "title": "Startups",
+        "text": "Young companies with real traction that need capital and experienced input to reach the next stage.",
+        "tags": [
+          "Scaling the team",
+          "Funding growth",
+          "Sharpening strategy"
+        ]
+      },
+      {
+        "tone": "green",
+        "title": "Small businesses",
+        "text": "Established, owner-led businesses looking to grow, restructure ownership or plan their next chapter.",
+        "tags": [
+          "Expansion",
+          "Ownership changes",
+          "Leadership support"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "What owners usually ask first.",
+    "items": [
+      {
+        "question": "Do you only invest, or do you also consult?",
+        "answer": "Both. Brightarc provides growth capital, shareholder liquidity, and leadership and strategy consulting. You can work with us on one of these or combine them."
+      },
+      {
+        "question": "What kinds of companies do you work with?",
+        "answer": "Startups and small businesses. The quickest way to know whether we are a fit is a short conversation about your company and your goals."
+      },
+      {
+        "question": "What does shareholder liquidity mean?",
+        "answer": "It gives an existing owner, such as a founder, partner or early investor, a way to sell some or all of their shares. It can help with retirements, partner exits or simply taking some risk off the table."
+      },
+      {
+        "question": "Do I need a pitch deck to get in touch?",
+        "answer": "No. A short description of the business and what you are looking for is enough to start the conversation."
+      },
+      {
+        "question": "How do I get started?",
+        "answer": "Call or email Nora directly, or use the form on this page. We will get back to you to arrange a first conversation."
+      }
+    ]
+  },
+  "contact": {
+    "id": "contact",
+    "eyebrow": "Start a conversation",
+    "title": "Tell us where you are headed.",
+    "lead": "A short note is enough. Share a little about your company and what you need, and we will take it from there.",
+    "directTitle": "Prefer to talk directly?",
+    "phoneLabel": "Call",
+    "emailLabel": "Email",
+    "form": {
+      "nameLabel": "Your name",
+      "emailLabel": "Email",
+      "companyLabel": "Company",
+      "needLabel": "What are you looking for?",
+      "needOptions": [
+        "Growth capital",
+        "Shareholder liquidity",
+        "Leadership and strategy consulting",
+        "Not sure yet"
+      ],
+      "messageLabel": "A few words about your company",
+      "messagePlaceholder": "What you do, where you are now, and what you need next.",
+      "submit": "Send message",
+      "note": "Sending opens your email app with your message ready to go.",
+      "success": "Your email app should now be open with the message ready. If nothing happened, email us directly at the address on this page.",
+      "error": "Please fill in your name, a valid email and what you are looking for.",
+      "emailSubject": "New enquiry from brightarc.example"
+    }
+  }
+}
